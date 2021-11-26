@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Res3 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Footprint: Designator=Res5 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Footprint: Designator=Res6 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Footprint: Designator=Res8 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Footprint: Designator=Res9 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Footprint: Designator=Res11 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Footprint: Designator=Res12 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Footprint: Designator=Res14 Old Footprint=C0805 New Footprint=R-AXIAL0.3
+Change Component Designator: OldDesignator=RAP1 NewDesignator=*
+Added Room: Name=V1

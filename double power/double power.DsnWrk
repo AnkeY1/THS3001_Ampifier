@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=double power.PrjPCB
+[Project2]
+ProjectPath=..\single power\single power.PrjPCB
+[Project3]
+ProjectPath=..\..\ÓÐÐ§Öµ¼ì²â\AD8361\AD8361.PrjPCB
